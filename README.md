@@ -61,3 +61,6 @@ A
 
 ---
 
+
+## Conclusiones 
+El orden de datos es una de las partes mas fundamentales de la programación, y cada método tiene una manera única de hacerlo.El realizar estos métodos ayuda a entender cómo funcionan los algoritmos, cómo se puede optimizar el rendimiento y cómo escribir se podría llegar a tener un código mejor estructurado. Con practica se puedo identificar cuál es el método más eficiente según la situación.
